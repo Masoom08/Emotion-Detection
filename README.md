@@ -1,8 +1,6 @@
 # 🎭 Emotion Detection App
 
-A **Jetpack Compose-based Android app** that detects emotions from images using **ML Kit Face Detection API**.  
-
-![Emotion Detection](screenshots/banner.png)  
+A **Jetpack Compose-based Android app** that detects emotions from images using **ML Kit Face Detection**.  
 
 ---
 
