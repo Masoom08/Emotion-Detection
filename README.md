@@ -39,5 +39,6 @@ A **Jetpack Compose-based Android app** that detects emotions from images using 
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/EmotionDetectionApp.git
-cd EmotionDetectionApp
+git clone https://github.com/Masoom08/Emotion-Detection.git
+cd Emotion-Detection
+
